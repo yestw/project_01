@@ -24,7 +24,7 @@ public class Star01 {
 				if (j >= i)                //별찍는 조건 - j가 i보다 크거나 같을때 별을 출력
 				System.out.print("*");     //
 			}	
-			System.out.println();
+			System.out.println(); kk
 		}
 	}
 
